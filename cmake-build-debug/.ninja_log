@@ -1,0 +1,12 @@
+# ninja log v5
+0	1562	7312936663127337	CMakeFiles/pp.dir/task2.cpp.obj	81ebe713cbf46f04
+0	2977	7312835265897384	CMakeFiles/pp.dir/main.cpp.obj	be4797527adc53e4
+0	2147	7312937387286565	CMakeFiles/pp.dir/task3.cpp.obj	4d114d78dffd5238
+3882	4047	7318928661043925	pp.exe	5ab8c2d311ca1102
+8	1748	7312918686511009	CMakeFiles/pp.dir/task0.cpp.obj	c8c95a1bb5e5d373
+1	225	7323807538255763	build.ninja	cdfc1467aadeca4d
+4	4940	7312919126957433	CMakeFiles/pp.dir/task1.cpp.obj	fef6c296973b343d
+4	4162	7312973879856462	CMakeFiles/pp.dir/task4.cpp.obj	bde7d658f825e122
+6	7671	7312969606077335	CMakeFiles/pp.dir/boba.cpp.obj	b1767be63b6c18e6
+0	2866	7318928205485087	CMakeFiles/pp.dir/ChildProcess.cpp.obj	42d46f5d64e69dcb
+0	3878	7318928659372660	CMakeFiles/pp.dir/task5.cpp.obj	c61951cdf66771c1
